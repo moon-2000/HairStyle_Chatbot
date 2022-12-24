@@ -1,0 +1,30 @@
+{
+    "face_shape":[
+        "oval", 
+        "round",
+        "square", 
+        "heart"
+    ],
+    "hair_length":[
+        "pixie", 
+        "short", 
+        "mid",
+        "long"
+    ], 
+    "hair_style":[
+        "straight", 
+        "wavy", 
+        "curly"
+    ], 
+    "hair_bang":[
+        "blunt", 
+        "side-swept", 
+        "deep-swept", 
+        "center-swept",
+        "none"
+    ], 
+    "hair_layers":[
+        "layered", 
+        "non-layered"
+    ]
+}

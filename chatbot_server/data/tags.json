@@ -1,0 +1,83 @@
+[
+    {
+        "tag": "reply",
+        "patterns": "None",
+        "responses": ["alright!", "great!", "nice!", "good!", "perfect!", "mmhmm!"]
+    },
+    {
+        "tag": "greeting",
+        "patterns": ["How are you", "Is anyone there", "Good day", "What's up", "greetings",
+          "Morning", "Afternoon", "Good night", " Sup ", "How is it going", "Anyone there", "What's new",
+          "How are you doing", "What's going on", "How's life", "Nice to see you", "Long time no see", "How do you do",
+          "Howdy", "Are you ok", "You alright", "Alright mate", "Wazzup", "meet"],
+        "responses": ["Hello!", "Good to see you!", "Hi there!", "Nice to see you here.", "Heeeyy!", "Good day!",
+          "Is there anything I can help you with?"]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": ["cya", "See you", "goodbye", "I am Leaving", "Have a good day", "bye", "cao", "see ya",
+          "Have a nice day", "ttyl", "talk to you later", "I'm off", "take care", "goodnight", "afternoon", "evening",
+          "Laterz", "Peace", "peace out", "I'm out", "take it easy", "Gotta go", "I gotta go",
+          "I have to go"],
+        "responses": ["I hope you've enjoyed our service.", "Bye bye!", "Goodbye!", "Have a nice day!",
+          "Enjoy your day!", "I hope to see you again, soon.", "Visit us again!",
+          "I'd love to welcome you back at sometime.", "Thank you for using our service.", "Have a pleasant day!"]
+    },
+    {
+        "tag": "thanks",
+        "patterns": ["Thank", "That's helpful", "you are so helpful", "Cheers", "Much appreciated",
+          "thx"],
+        "responses": ["Happy to help!", "Any time!", "My pleasure!", "Always welcome!", "You're welcome!"]
+    },
+    {
+        "tag": "hours",
+        "patterns": ["hour", "work", "open", "close"],
+        "responses": ["We work from 9am till 7.30pm Mo-Fr."]
+    },
+    {
+        "tag": "name",
+        "patterns": ["name", "How can I call you", "What should I call you"],
+        "responses": ["My name is GnosisAI, What can I help you with?"]
+    },
+    {
+        "tag": "location",
+        "patterns": ["location", "address", "How can I find you?", "Where can i take my order?", "Where is your stand?"],
+        "responses": ["You can find our pizza stand at [address].", "Our location is [address]."]
+    },
+    {
+        "tag": "contact",
+        "patterns": ["contact", "telephone", "email", "How can i contact you?", "Phone", "call"],
+        "responses": ["Our email: [email], Our telephone: [telephone]."]
+    },
+    {
+        "tag": "social media",
+        "patterns": ["facebook", "instagram", "website", "twitter", "social media", " insta "],
+        "responses": ["These are all links to our social medias: [social_media_list]"]
+    },
+    {
+        "tag": "introduction",
+        "patterns": ["Introduce", "Tell me your story", "What do you do", "Where am I", "What are you doing",
+        "Who are you", "Who is this", "How can you help me", "What can you tell me about you",
+        "What can you tell me about yourself", "intro", "introduction"],
+        "responses": ["I'm GnosisAI. I was created for pizzeria \"Recko\". Will help with your order. Hope you will have only positive experience here."]
+    },
+    {
+        "tag": "rating",
+        "patterns": ["How popular is you cafe", "Is your cafe popular", "Is this place popular",
+        "How popular is this place", "rating", "rank"],
+        "responses": ["Our rating is 4.7 stars.", "We have been rated 4.7 stars!",
+          "We have one of the highest ratings in town -- 4.7 stars!"]
+    },
+    {
+        "tag": "reviews",
+        "patterns": ["review", "comment"],
+        "responses": ["Here you are some reviews: [review_list]", "Please have a look at our review list: [review_list]",
+          "Review list: [review_list]", "Reviews were taken from our website: [review_list]"]
+    },
+    {
+        "tag": "restart",
+        "patterns": [" start over ", " start again ", " restart ", " exit ", " reboot ", " relaunch ", " terminate ",
+          " halt ", " break ", " quit ", " reorder "],
+        "responses": ["RESTART"]
+    }
+]

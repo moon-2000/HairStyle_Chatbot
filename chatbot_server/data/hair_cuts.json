@@ -1,0 +1,909 @@
+{
+    
+    "oval": [{
+        "Choppy Long Bob": {
+            "hair_length": "mid",
+            "hair_style": "wavy",
+            "hair_bang": "side-swept",
+            "hair_layers": "layered"
+        },
+        "Wavy Medium-Length Hair": {
+            "hair_length": "mid",
+            "hair_style": "wavy",
+            "hair_bang": "center-swept",
+            "hair_layers": "layered"
+        },
+        "Short Messy Bob": {
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang": "side-swept",
+            "hair_layers": "layered"
+        },
+        "Long Wavy Bronde Hair": {
+            "hair_length": "long",
+            "hair_style": "wavy",
+            "hair_bang": "center-swept",
+            "hair_layers": "layered"
+        }, 
+        "Straight Cut": {
+            "hair_length": "mid",
+            "hair_style": "straight",
+            "hair_bang": "blunt",
+            "hair_layers": "non-layered"
+        },
+        "Ruffled Pixie": {
+            "hair_length": "pixie",
+            "hair_style": "wavy",
+            "hair_bang": "none",
+            "hair_layers": "layered"
+        },
+        "Extra Long Curly Locks": {
+            "hair_length": "long",
+            "hair_style": "curly",
+            "hair_bang": "center-swept",
+            "hair_layers": "non-layered"
+        }, 
+        "Chin-Length Bob": {
+            "hair_length": "short",
+            "hair_style": "straight",
+            "hair_bang": "side-swept",
+            "hair_layers": "layered"
+        },
+        "Bombshell Curls": {
+            "hair_length": "long",
+            "hair_style": "wavy",
+            "hair_bang": "blunt",
+            "hair_layers": "layered"
+        }, 
+        "Ombre Hairstyle": {
+            "hair_length": "long",
+            "hair_style": "wavy",
+            "hair_bang": "center-swept",
+            "hair_layers": "layered"
+        },
+        "Mid-Length Cut with Curtain Fringe": {
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang": "center-swept",
+            "hair_layers": "layered"
+        }, 
+        "Bob with Deep Side": {
+            "hair_length": "short",
+            "hair_style": "straight",
+            "hair_bang": "side-swept",
+            "hair_layers": "non-layered"
+        }, 
+        "Long Feathered Waves": {
+            "hair_length": "long",
+            "hair_style": "wavy",
+            "hair_bang": "center-swept",
+            "hair_layers": "layered"
+        }, 
+        "Shiny Bob with Wavy Texture": {
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang": "center-swept",
+            "hair_layers": "non-layered"
+        },
+        "Long Flowy Style": {
+            "hair_length": "long",
+            "hair_style": "straight",
+            "hair_bang": "center-swept",
+            "hair_layers": "layered"
+        }, 
+        "Angled Bob with Middle Part": {
+            "hair_length": "short",
+            "hair_style": "straight",
+            "hair_bang": "center-swept",
+            "hair_layers": "non-layered"
+        },
+        "Sleek Long Bob":{
+            "hair_length": "short",
+            "hair_style": "straight",
+            "hair_bang": "side-swept",
+            "hair_layers": "non-layered"
+        },
+        "Asymmetrical Choppy Bob":{
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang": "deep-swept",
+            "hair_layers": "non-layered"
+        },
+        "Wavy Bob":{
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang": "side-swept",
+            "hair_layers": "layered"
+        },
+        "Face-Framing Layers":{
+            "hair_length": "long",
+            "hair_style": "straight",
+            "hair_bang": "side-swept",
+            "hair_layers": "layered"
+        },
+        "Short Layered Cut":{
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang": "side-swept",
+            "hair_layers": "layered"
+        },
+        "Pixie Cut with Dramatic Side Part":{
+            "hair_length": "pixie",
+            "hair_style": "wavy",
+            "hair_bang": "deep-swept",
+            "hair_layers": "layered"
+        },
+        "Curly Pixie with V-Cut Nape":{
+            "hair_length": "pixie",
+            "hair_style": "curly",
+            "hair_bang": "slide-swept",
+            "hair_layers": "layered"
+        },
+        "Cute Pixie with Curly Bangs":{
+            "hair_length": "pixie",
+            "hair_style": "curly",
+            "hair_bang": "blunt",
+            "hair_layers": "layered"
+        },
+        "Curly Pixie with Shaved Nape":{
+            "hair_length": "pixie",
+            "hair_style": "curly",
+            "hair_bang": "blunt",
+            "hair_layers": "layered"
+        },
+        "Short Bob with Whipped Curls and Babylights":{
+            "hair_length": "short",
+            "hair_style": "curly",
+            "hair_bang": "none",
+            "hair_layers": "layered"
+        },
+        "Short Curly Hairstyle with Long Face-Framing Pieces":{
+            "hair_length": "short",
+            "hair_style": "curly",
+            "hair_bang": "slide-swept",
+            "hair_layers": "layered"
+        },
+        "Pretty Curly Brown Pixie Bob":{
+            "hair_length": "short",
+            "hair_style": "curly",
+            "hair_bang": "blunt",
+            "hair_layers": "layered"
+        },
+        "Curly Dark Chocolate Brown Pixie":{
+            "hair_length": "pixie",
+            "hair_style": "curly",
+            "hair_bang": "deep-swept",
+            "hair_layers": "layered"
+        }
+        }
+    ],
+    "square":[ {
+        "Medium Layered Dirty Blonde Style":{
+            "hair_length": "mid",
+            "hair_style": "wavy",
+            "hair_bang": "center-swept",
+            "hair_layers": "layered"
+        }, 
+        "Uneven Chin-Length Bob with Side Bangs":{
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang": "blunt",
+            "hair_layers": "layered"
+        },
+        "Medium Messy Layered Hairstyle":{
+            "hair_length": "mid",
+            "hair_style": "wavy",
+            "hair_bang": "side-swept",
+            "hair_layers": "layered"
+        },
+        "Trendy Shaggy Messy Lob":{
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang": "side-swept",
+            "hair_layers": "layered"
+        },
+        "Lob with Tousled Waves":{
+            "hair_length": "mid",
+            "hair_style": "wavy",
+            "hair_bang": "center-swept",
+            "hair_layers": "layered"
+        },
+        "Classy and Formal Up-do":{
+            "hair_length": "mid",
+            "hair_style": "wavy",
+            "hair_bang": "blunt",
+            "hair_layers": "layered"
+        },
+        "Short Asymmetrical Messy Pixie-Bob":{
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang": "side-swept",
+            "hair_layers": "layered"
+        }, 
+        "Centre-Parted Medium Layered Hairstyle":{
+            "hair_length": "mid",
+            "hair_style": "wavy",
+            "hair_bang":"center-swept",
+            "hair_layers": "non-layered"
+        },
+        "Medium Wavy Cut with Straight Bangs Save":{
+            "hair_length": "mid",
+            "hair_style": "wavy",
+            "hair_bang":"blunt",
+            "hair_layers": "layered"
+        },
+        "Asian Choppy Off-Centered Bob":{
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang":"center-swept",
+            "hair_layers": "layered"
+        },
+        "Urban Pixie Cut":{
+            "hair_length": "pixie",
+            "hair_style": "straight",
+            "hair_bang":"blunt",
+            "hair_layers": "layered"
+        },
+        "Chest-Length Choppy Style":{
+            "hair_length": "long",
+            "hair_style": "wavy",
+            "hair_bang":"blunt",
+            "hair_layers": "layered"
+        },
+        "Piecey Pixie Cut":{
+            "hair_length": "pixie",
+            "hair_style": "straight",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "Medium Choppy Side-Parted Style":{
+            "hair_length": "mid",
+            "hair_style": "straight",
+            "hair_bang":"side-swept",
+            "hair_layers": "non-layered"
+        },
+        "Medium Hair with Flowy Face-Framing":{
+            "hair_length": "long",
+            "hair_style": "wavy",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "Long Textured Cut with Eyebrow-Skimming Bangs":{
+            "hair_length": "long",
+            "hair_style": "straight",
+            "hair_bang":"blunt",
+            "hair_layers": "non-layered"
+        },
+        "Neck-Length Shag":{
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang":"center-swept",
+            "hair_layers": "layered"
+        },
+        "Platinum Short Textured Bob":{
+            "hair_length": "long",
+            "hair_style": "wavy",
+            "hair_bang":"center-swept",
+            "hair_layers": "non-layered"
+        },
+        " Girly Voluminous Waves":{
+            "hair_length": "long",
+            "hair_style": "wavy",
+            "hair_bang":"blunt",
+            "hair_layers": "layered"
+        },
+        "Long Finely Chopped Pastel ":{
+            "hair_length": "long",
+            "hair_style": "wavy",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "Edgy Short Bob for Square Faces":{
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "Wispy Lob with Root Lift":{
+            "hair_length": "mid",
+            "hair_style": "straight",
+            "hair_bang":"center-swept",
+            "hair_layers": "layered"
+        },
+        "NAsh Blonde Shaggy Wavy Lob":{
+            "hair_length": "mid",
+            "hair_style": "wavy",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "NChoppy Messy Centre-Parted Lob":{
+            "hair_length": "mid",
+            "hair_style": "wavy",
+            "hair_bang":"center-swept",
+            "hair_layers": "layered"
+        },
+        "Long Wavy Hairstyle with Full Bangs":{
+            "hair_length": "long",
+            "hair_style": "wavy",
+            "hair_bang":"blunt",
+            "hair_layers": "layered"
+        },
+        "Mid-Length Loose Curls":{
+            "hair_length": "mid",
+            "hair_style": "curly",
+            "hair_bang":"deep-swept",
+            "hair_layers": "layered"
+        },
+        "Perfect Wavy Copper Lob":{
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        " Romantic Side Braid":{
+            "hair_length": "long",
+            "hair_style": "curly",
+            "hair_bang":"deep-swept",
+            "hair_layers": "layered"
+        },
+        "Peekaboo Lob":{
+            "hair_length": "mid",
+            "hair_style": "straight",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "NElegant Luxury":{
+            "hair_length": "long",
+            "hair_style": "wavy",
+            "hair_bang":"side-swept",
+            "hair_layers": "non-layered"
+        },
+        "Short Crop for Thick Hair":{
+            "hair_length": "short",
+            "hair_style": "curly",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "Medium Length style for Naturally Curly hair":{
+            "hair_length": "mid",
+            "hair_style": "curly",
+            "hair_bang":"blunt",
+            "hair_layers": "layered"
+        }
+        }
+    ],
+    "long":[
+        {
+            "Short Cut with Swoopy Bangs":{
+                "hair_length": "short",
+                "hair_style": "wavy",
+                "hair_bang":"side-swept",
+                "hair_layers": "layered"
+            },
+            "Catchy Short Haircut":{
+                "hair_length": "mid",
+                "hair_style": "straight",
+                "hair_bang":"blunt",
+                "hair_layers": "layered"
+            },
+            "Choppy Lob with Curtain Bangs":{
+                "hair_length": "mid",
+                "hair_style": "wavy",
+                "hair_bang":"blunt",
+                "hair_layers": "layered"
+            },
+            "MAsymmetrical Blonde Lob":{
+                "hair_length": "mid",
+                "hair_style": "wavy",
+                "hair_bang":"side-swept",
+                "hair_layers": "non-layered"
+            },
+            "Elegant Wavy Hair for Long Faces":{
+                "hair_length": "short",
+                "hair_style": "wavy",
+                "hair_bang":"center-swept",
+                "hair_layers": "layered"
+            },
+            "Sleek Deep Side Part Bob":{
+                "hair_length": "short",
+                "hair_style": "straight",
+                "hair_bang":"side-swept",
+                "hair_layers": "non-layered"
+            },
+            "Middle Length Angled Cut":{
+                "hair_length": "mid",
+                "hair_style": "straight",
+                "hair_bang":"side-swept",
+                "hair_layers": "non-layered"
+            },
+            "Long Side Swept Bangs":{
+                "hair_length": "short",
+                "hair_style": "straight",
+                "hair_bang":"side-swept",
+                "hair_layers": "non-layered"
+            },
+            "Choppy Shag for Thick Hair":{
+                "hair_length": "mid",
+                "hair_style": "wavy",
+                "hair_bang":"blunt",
+                "hair_layers": "layered"
+            },
+            "Shag with Chin-Length Layers and Bangs":{
+                "hair_length": "long",
+                "hair_style": "wavy",
+                "hair_bang":"blunt",
+                "hair_layers": "layered"
+            },
+            "Medium Wavy Hairstyle for Long Faces":{
+                "hair_length": "mid",
+                "hair_style": "wavy",
+                "hair_bang":"center-swept",
+                "hair_layers": "layered"
+            },
+            "Long Side-Parted Cut with Razored Layers":{
+                "hair_length": "long",
+                "hair_style": "wavy",
+                "hair_bang":"center-swept",
+                "hair_layers": "layered"
+            },
+            "Medium Shag with a Wispy Fringe":{
+                "hair_length": "mid",
+                "hair_style": "wavy",
+                "hair_bang":"blunt",
+                "hair_layers": "layered"
+            },
+            "Sharp Shaggy Bob with Side Part":{
+                "hair_length": "short",
+                "hair_style": "wavy",
+                "hair_bang":"side-swept",
+                "hair_layers": "layered"
+            },
+            "Crop with Short Fringe for a Long Face":{
+                "hair_length": "short",
+                "hair_style": "straight",
+                "hair_bang":"blunt",
+                "hair_layers": "layered"
+            },
+            "Rounded Bob Hairstyle":{
+                "hair_length": "short",
+                "hair_style": "straight",
+                "hair_bang":"center-swept",
+                "hair_layers": "non-layered"
+            },
+            "Layered Pixie Cut with Bangs":{
+                "hair_length": "pixie",
+                "hair_style": "wavy",
+                "hair_bang":"blunt",
+                "hair_layers": "layered"
+            },
+            "Messy Curly Hairstyle for Long Hair":{
+                "hair_length": "long",
+                "hair_style": "curly",
+                "hair_bang":"blunt",
+                "hair_layers": "layered"
+            },
+            "Bleached Cut with Long Side Bangs":{
+                "hair_length": "short",
+                "hair_style": "straight",
+                "hair_bang":"deep-swept",
+                "hair_layers": "non-layered"
+            },
+            "Shaggy Bob with Curtain Bangs":{
+                "hair_length": "mid",
+                "hair_style": "wavy",
+                "hair_bang":"center-swept",
+                "hair_layers": "layered"
+            },
+            "Messy Pixie Cut for Wavy Hair":{
+                "hair_length": "pixie",
+                "hair_style": "curly",
+                "hair_bang":"blunt",
+                "hair_layers": "layered"
+            },
+            "Long Tousled Wavy Hairstyle":{
+                "hair_length": "long",
+                "hair_style": "wavy",
+                "hair_bang":"center-swept",
+                "hair_layers": "layered"
+            },
+            "Sassy Feathered Pixie for Long Faces":{
+                "hair_length": "pixie",
+                "hair_style": "straight",
+                "hair_bang":"blunt",
+                "hair_layers": "layered"
+            },
+            "Rough Gilded Locks":{
+                "hair_length": "short",
+                "hair_style": "curly",
+                "hair_bang":"side-swept",
+                "hair_layers": "layered"
+            },
+            "Pretty Long Curly Hair with Bangs":{
+                "hair_length": "long",
+                "hair_style": "curly",
+                "hair_bang":"blunt",
+                "hair_layers": "layered"
+            },
+            "Low Curly Bun with Loose Curls":{
+                "hair_length": "mid",
+                "hair_style": "curly",
+                "hair_bang":"none",
+                "hair_layers": "layered"
+            },
+            "Messy Lob with Large Messy Curls":{
+                "hair_length": "short",
+                "hair_style": "curly",
+                "hair_bang":"side-swept",
+                "hair_layers": "layered"
+            },
+            "Short Stacked Curly Bob":{
+                "hair_length": "short",
+                "hair_style": "curly",
+                "hair_bang":"deep-swept",
+                "hair_layers": "layered"
+            }
+        }
+    ],
+    "round":[
+        {
+        "Lovely Short Cut for Thick Hair":{
+            "hair_length": "pixie",
+            "hair_style": "straight",
+            "hair_bang":"deep-swept",
+            "hair_layers": "layered"
+        }, 
+        ": Blonde Pixie with Messy Crown":{
+            "hair_length": "pixie",
+            "hair_style": "straight",
+            "hair_bang":"blunt",
+            "hair_layers": "layered"
+        },
+        "Bronde Tousled Bob with a Side Part":{
+            "hair_length": "short",
+            "hair_style": "straight",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "Long Wavy Pixie with Nape Undercut":{
+            "hair_length": "pixie",
+            "hair_style": "wavy",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "Pixie With Tapered Sideburns":{
+            "hair_length": "pixie",
+            "hair_style": "wavy",
+            "hair_bang":"blunt",
+            "hair_layers": "layered"
+        },
+        "Pixie-Bob with Side-Swept Bangs":{
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "Short Asymmetric Haircut":{
+            "hair_length": "pixie",
+            "hair_style": "straight",
+            "hair_bang":"deep-swept",
+            "hair_layers": "layered"
+        },
+        "Choppy Bob with Curtain Bangs":{
+            "hair_length": "short",
+            "hair_style": "straight",
+            "hair_bang":"center-swept",
+            "hair_layers": "layered"
+        },
+        "Highlights on Short Layered Style":{
+            "hair_length": "pixie",
+            "hair_style": "straight",
+            "hair_bang":"blunt",
+            "hair_layers": "layered"
+        },
+        "Short Piece-y Bob for a Round Face":{
+            "hair_length": "short",
+            "hair_style": "straight",
+            "hair_bang":"deep-swept",
+            "hair_layers": "layered"
+        },
+        "Chic Brunette Bob Shag":{
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "Sassy Copper Bob with Money Pieces":{
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang":"center-swept",
+            "hair_layers": "layered"
+        },
+        "Pretty Disconnected Blonde Bob":{
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang":"blunt",
+            "hair_layers": "layered"
+        },
+        "Ear-Length Bob with Piece-y Bangs":{
+            "hair_length": "short",
+            "hair_style": "straight",
+            "hair_bang":"blunt",
+            "hair_layers": "layered"
+        },
+        "Wavy Bob for Round Face Shapes":{
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "Cute A-Line Bob with Subtle Layers":{
+            "hair_length": "short",
+            "hair_style": "straight",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "Platinum Pixie Cut with Short Bangs":{
+            "hair_length": "pixie",
+            "hair_style": "wavy",
+            "hair_bang":"blunt",
+            "hair_layers": "layered"
+        },
+        "Dramatic Bob with Feathered Bangs":{
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang":"deep-swept",
+            "hair_layers": "layered"
+        },
+        "Curly Shaggy Hairstyle for Natural Hair":{
+            "hair_length": "long",
+            "hair_style": "curly",
+            "hair_bang":"center-swept",
+            "hair_layers": "layered"
+        },
+        "Stylish Curly Hairstyle Makeover":{
+            "hair_length": "mid",
+            "hair_style": "curly",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "Perm Bob with Large Curls":{
+            "hair_length": "short",
+            "hair_style": "curly",
+            "hair_bang":"center-swept",
+            "hair_layers": "layered"
+        },
+        "Spiral Perm Hairstyle with Bangs":{
+            "hair_length": "mid",
+            "hair_style": "curly",
+            "hair_bang":"blunt",
+            "hair_layers": "layered"
+        },
+        "Classic Blunt Bob":{
+            "hair_length": "short",
+            "hair_style": "straight",
+            "hair_bang":"side-swept",
+            "hair_layers": "non-layered"
+        },
+        "Straight Collarbone Lob":{
+            "hair_length": "short",
+            "hair_style": "straight",
+            "hair_bang":"center-swept",
+            "hair_layers": "non-layered"
+        },
+        "Stacked Short Curls":{
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang":"blunt",
+            "hair_layers": "layered"
+        },
+        "Cute Warm Bronde Combover Bob":{
+            "hair_length": "mid",
+            "hair_style": "straight",
+            "hair_bang":"side-swept",
+            "hair_layers": "non-layered"
+        },
+        "Messy Jet-Black Curls":{
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang":"blunt",
+            "hair_layers": "layered"
+        },
+        "SWavy Mid-Length Shag":{
+            "hair_length": "mid",
+            "hair_style": "wavy",
+            "hair_bang":"center-swept",
+            "hair_layers": "layered"
+        },
+        "Tousled Grunge-Style Bob":{
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "Curly Brown Bob for Thick Hair":{
+            "hair_length": "mid",
+            "hair_style": "curly",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "Disconnected Wavy Gray Bob":{
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        " Blunt and Choppy White Blonde Bob":{
+            "hair_length": "short",
+            "hair_style": "straight",
+            "hair_bang":"blunt",
+            "hair_layers": "layered"
+        }
+        }
+    ],
+    "heart":[
+        {
+        "Layered Pixie Hairstyle":{ 
+            "hair_length": "pixie",
+            "hair_style": "straight",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        " Delicate Face-Framing Bob":{ 
+            "hair_length": "mid",
+            "hair_style": "straight",
+            "hair_bang":"center-swept",
+            "hair_layers": "non-layered"
+        },
+        "Flirty Flip":{ 
+            "hair_length": "mid",
+            "hair_style": "wavy",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "Textured Bob":{ 
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang":"center-swept",
+            "hair_layers": "layered"
+        },
+        "Shoulder Length Shag":{ 
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "Tousled Tendrils":{ 
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang":"deep-swept",
+            "hair_layers": "layered"
+        },
+        "Chiseled Chic Layers":{ 
+            "hair_length": "long",
+            "hair_style": "wavy",
+            "hair_bang":"blunt",
+            "hair_layers": "layered"
+        },
+        "Side Parted Sexy Lob":{ 
+            "hair_length": "long",
+            "hair_style": "wavy",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "Long Side-Swept Bangs":{ 
+            "hair_length": "mid",
+            "hair_style": "straight",
+            "hair_bang":"side-swept",
+            "hair_layers": "non-layered"
+        },
+        "Straight Medium Bob":{ 
+            "hair_length": "mid",
+            "hair_style": "straight",
+            "hair_bang":"side-swept",
+            "hair_layers": "non-layered"
+        },
+        "Inverted Bob":{ 
+            "hair_length": "short",
+            "hair_style": "wavy",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "Angled Straight Lob":{ 
+            "hair_length": "short",
+            "hair_style": "straight",
+            "hair_bang":"side-swept",
+            "hair_layers": "non-layered"
+        },
+        "Asymmetrical Straight Bob":{ 
+            "hair_length": "short",
+            "hair_style": "straight",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "Shaggy Short Bob":{ 
+            "hair_length": "short",
+            "hair_style": "curly",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "Short Curly Bob With Bangs":{ 
+            "hair_length": "pixie",
+            "hair_style": "curly",
+            "hair_bang":"blunt",
+            "hair_layers": "layered"
+        },
+        "Long Shag":{ 
+            "hair_length": "long",
+            "hair_style": "wavy",
+            "hair_bang":"center-swept",
+            "hair_layers": "layered"
+        },
+        "Center Parted Bangs For Long Hair":{ 
+            "hair_length": "long",
+            "hair_style": "straight",
+            "hair_bang":"center-swept",
+            "hair_layers": "layered"
+        }, 
+        "Long Hair With Wispy Bangs and Flower Crown":{ 
+            "hair_length": "long",
+            "hair_style": "wavy",
+            "hair_bang":"blunt",
+            "hair_layers": "layered"
+        },
+        "Half Updo With Blunt Bangs":{ 
+            "hair_length": "long",
+            "hair_style": "straight",
+            "hair_bang":"blunt",
+            "hair_layers": "non-layered"
+        },
+        "Half Ponytail With Bow":{ 
+            "hair_length": "long",
+            "hair_style": "wavy",
+            "hair_bang":"blunt",
+            "hair_layers": "layered"
+        },
+        "C-Shaped Bob With Side Bangs":{ 
+            "hair_length": "mid",
+            "hair_style": "straight",
+            "hair_bang":"center-swept",
+            "hair_layers": "non-layered"
+        },
+        "Bouncy Blowout":{ 
+            "hair_length": "mid",
+            "hair_style": "wavy",
+            "hair_bang":"none",
+            "hair_layers": "layered"
+        },
+        "Bouncy Pixie Cut":{ 
+            "hair_length": "pixie",
+            "hair_style": "straight",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        },
+        "Straight Lob":{ 
+            "hair_length": "mid",
+            "hair_style": "straight",
+            "hair_bang":"center-swept",
+            "hair_layers": "layered"
+        },
+        "Short Hair Curls":{ 
+            "hair_length": "short",
+            "hair_style": "curly",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        }, 
+        "Bob with Side Part":{ 
+            "hair_length": "mid",
+            "hair_style": "straight",
+            "hair_bang":"side-swept",
+            "hair_layers": "layered"
+        }, 
+        "Brushed Back Layered Hair":{ 
+            "hair_length": "mid",
+            "hair_style": "wavy",
+            "hair_bang":"none",
+            "hair_layers": "layered"
+        }
+        }
+    ]
+}
