@@ -11,8 +11,7 @@ npm install && npm run start
 2. Install chatbot packages and start the application
 ```
 cd ./chatbot_frontend
-npm install --legacy-peer-deps
- && npm run start
+npm install --legacy-peer-deps && npm run start
 ```
 
 Now navigate to `http://localhost:5000` 
