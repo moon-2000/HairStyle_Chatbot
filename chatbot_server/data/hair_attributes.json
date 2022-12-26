@@ -1,30 +1,30 @@
 {
     "face_shape":[
-        "oval", 
-        "round",
-        "square", 
+        "\n1. oval", 
+        "\n2. round",
+        "\n3. square", 
         "heart"
     ],
     "hair_length":[
-        "pixie", 
-        "short", 
-        "mid",
-        "long"
+        "\n1. pixie", 
+        "\n2. short", 
+        "\n3. mid",
+        "\n4. long"
     ], 
     "hair_style":[
-        "straight", 
-        "wavy", 
-        "curly"
+        "\n1. straight", 
+        "\n2. wavy", 
+        "\n3. curly"
     ], 
     "hair_bang":[
-        "blunt", 
-        "side-swept", 
-        "deep-swept", 
-        "center-swept",
-        "none"
+        "\n1. blunt", 
+        "\n2. side-swept", 
+        "\n3. deep-swept", 
+        "\n4. center-swept",
+        "\n4. none"
     ], 
     "hair_layers":[
-        "layered", 
-        "non-layered"
+        "\n1. layered", 
+        "\n2. non-layered"
     ]
 }

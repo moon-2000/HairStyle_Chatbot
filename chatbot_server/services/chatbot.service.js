@@ -120,10 +120,10 @@ function rating(input){
     lastFunc = "rating"
     funcList.push(lastFunc)
     awaitanswer = true
-    if(input === 'help'){
+    if(input === 'help' || input === 'Help'){
         return help("None")
-    }else if(input === 'start'){
-        console.log("CLEAR CJAT")
+    }else if(input === 'start' || input === 'Start'){
+        console.log("CLEAR CHAT")
         return clearChat()
     }else{
         answer = "Thanks for your time, please recommend 'LOYA Salone' to your friends"
@@ -175,7 +175,7 @@ function help(func){
 }
 
 function generateResponses(input){
-    return (!input) ? "No input" : getanswer(input);
+    return (!input) ? "No valid input" : getanswer(input);
 }
 
 function getanswer(data){
